@@ -1,2 +1,2 @@
 #stormx
-#buymore!
+buy more
